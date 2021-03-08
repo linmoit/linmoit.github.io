@@ -77,26 +77,28 @@ publications:
     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Web Development"
+  - name: "Development"
     level: "Master"
     keywords:
+      - "Python"
+      - "Java"
       - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
+  - name: "Lecturer"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Test"
+      - "Linux"
+      - "Database"
 languages:
-  - language: "English"
+  - language: "Chinese"
     fluency: "Native speaker"
+  - language: "English"
+    fluency: "General"
 interests:
-  - name: "Wildlife"
+  - name: "Watching Movies"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "Science fiction"
+      - "Martial arts"
 references:
   - name: "Erlich Bachman"
     reference: >
