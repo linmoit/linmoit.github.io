@@ -15,7 +15,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/linmoit)
+* GitHub：[LinMoIT](https://github.com/linmoit)
 * email：linmoit@foxmail.com
 
 ## 友情链接

@@ -4,7 +4,6 @@ title:  "二分查找"
 categories: JavaScript
 tags: 动画
 author: LinMo
-mathjax: true
 ---
 
 * content
@@ -12,10 +11,6 @@ mathjax: true
 
 前端动画的开发一直是我所热衷探索与研究的内容，本文将描述什么是拟真的动画效果，目前所流行的 React 动画库，以及一些基于 framer-motion 动画库的 demos。
 
-
-
-
-{% raw %}
 ### 介绍
 二分查找也称折半查找（Binary Search），它是一种效率较高的查找方法。但是，折半查找要求线性表必须采用顺序存储结构，而且表中元素按关键字有序排列。
 ### 前提
@@ -56,5 +51,3 @@ print(serach(array, 5))
 **End**
 -
 **林末：[https://www.helloworld.net/linmo](https://www.helloworld.net/linmo)**
-
-{% endraw %}
