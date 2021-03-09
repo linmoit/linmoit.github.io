@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "二分查找"
-categories: JavaScript
-tags: 动画
+categories: Python
+tags: python
 author: LinMo
 ---
 
